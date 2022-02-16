@@ -1,0 +1,56 @@
+.top{
+  text-align:center;
+  background-color: #212529;
+  color : #ffffffff;
+  padding-top:100px;
+  padding-bottom:100px
+}
+
+body{
+  margin:0
+}
+
+#avatar{
+  width:25%;
+  float:left;
+  padding:15px
+}
+#skills-header{
+  font-size:50px;
+  color:#00adb5
+
+}
+
+.skills{
+  text-align: center
+}
+
+#python-icon{
+  width:25%;
+  float:left;
+  padding:15px
+}
+
+#data-icon{
+  width:25%;
+  float:right;
+  padding:15px
+}
+
+#web-icon{
+  width:25%;
+  float:left;
+  padding:15px
+}
+
+.skills-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left
+
+}
+
+#skills-para{
+  line-height: 1.5;
+  font-size: 25px
+}
